@@ -5,7 +5,7 @@
 #include <iostream>
 #include <algorithm>
 #include <time.h>
-#include "Deck.h"
+#include "../include/Deck.h"
 
 Deck::Deck() {
     for (int i = 0; i < 52; i++) {

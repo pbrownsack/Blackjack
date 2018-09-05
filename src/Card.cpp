@@ -2,7 +2,7 @@
 // Created by Parker Brown on 9/2/18.
 //
 
-#include "Card.h"
+#include "../include/Card.h"
 
 Card::Card(int newId) : id(newId) {}
 

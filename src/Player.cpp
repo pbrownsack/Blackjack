@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include "Player.h"
+#include "../include/Player.h"
 
 Player::Player(Deck *newDeck) {
     deck = newDeck;
